@@ -1,4 +1,4 @@
-# Pro-Motion
+# Pro-Motion - Qhacks 3rd Place
 Myo Armband Controlling a Go Pro camera
 
 Hackathon project:
